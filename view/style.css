@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 1rem;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+#coordinate-form {
+  margin-top: 1rem;
+}
